@@ -1,6 +1,7 @@
 "use strict";
 
-document.getElementById("nameId").textContent = "Solved! Augist 30th. Reina";
+document.getElementById("nameId").textContent =
+  "Solved! Augist 30th. Reina Koh";
 
 //Dynamic background color change
 const color = [
